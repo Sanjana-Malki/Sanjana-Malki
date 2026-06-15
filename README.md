@@ -18,8 +18,8 @@
 - Open-source datasets and EDA (Exploratory Data Analysis)
 
 ### 📫 How to reach me ...
-LinkedIn: https://www.linkedin.com/in/sanjanamalki
-Email: sanjanamalki07@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sanjanamalki
+- Email: sanjanamalki07@gmail.com
 
 # Fun fact:
 I believe every dataset has a story — I just help tell it! 📖
